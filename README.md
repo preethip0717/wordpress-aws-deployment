@@ -43,16 +43,16 @@ Browser → EC2 (Apache + PHP + WordPress) → Amazon RDS (MySQL)
 Successfully deployed a WordPress website on AWS EC2 with Amazon RDS MySQL as its backend database.
 
 ### WordPress Homepage
-![WordPress Homepage](screenshots/WordPress%20homepage%20running%20successfully.png)
+![WordPress Homepage](Screenshots/WordPress%20homepage%20running%20successfully.png)
 
 ### EC2 Instance
-![EC2 Instance](screenshots/EC2%20instance%20showing%20its%20running%20status.png)
+![EC2 Instance](Screenshots/EC2%20instance%20showing%20its%20running%20status.png)
 
 ### RDS Database
-![RDS Database](screenshots/RDS%20database%20showing%20its%20Available%20status.png)
+![RDS Database](Screenshots/RDS%20database%20showing%20its%20Available%20status.png)
 
 ### WordPress Website Content
-![Website Content](screenshots/WordPress%20website%20displaying%20its%20content.png)
+![Website Content](Screenshots/WordPress%20website%20displaying%20its%20content.png)
 
 ## Key Learnings
 Gained practical experience with AWS compute, database services, Linux administration, web server configuration, and cloud-hosted application deployment.
