@@ -45,7 +45,7 @@ Successfully deployed a WordPress website on AWS EC2 with Amazon RDS MySQL as it
 ## Screenshots
 
 ### WordPress Homepage
-![WordPress Homepage](Screenshots/WordPress%20homepage%20running%20successfully..png)
+![WordPress Homepage](Screenshots/WordPress%20homepage%20running%20successfully...png)
 
 ### EC2 Instance
 ![EC2 Instance](Screenshots/EC2%20instance%20showing%20its%20running%20status..png)
