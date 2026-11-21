@@ -39,9 +39,10 @@ Browser → EC2 (Apache + PHP + WordPress) → Amazon RDS (MySQL)
 - Troubleshooting website access after an EC2 public IP change.
 - Understanding the interaction between web servers, applications, and databases.
 
-## Screenshots
 ## Project Outcome
 Successfully deployed a WordPress website on AWS EC2 with Amazon RDS MySQL as its backend database.
+
+## Screenshots
 
 ### WordPress Homepage
 ![WordPress Homepage](Screenshots/WordPress%20homepage%20running%20successfully.png)
